@@ -13,6 +13,9 @@ composer require toastnz/fill-form
 ```
 
 Include anywhere your heart desires:
+
 ```
 <% include FillForm %>
 ```
+
+Either click on the button at the bottom left of the page or use the handy dandy keyboard shortcut of ```Command + Shift + F```
